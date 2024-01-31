@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: hsl(0, 87%, 84%);
+}
+#inputBox{
+  margin-bottom: 20px;
+  padding: 5px;
+}
+#contentDiv{
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+button{
+margin: 30px;
+padding: 3px;
+border-radius: 25px;
+background-color: black;
+color: white;
+border-radius: 25px;
+}
+#gbw{
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border-radius: 25px;
+}
